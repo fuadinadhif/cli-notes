@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "id": 1727332860626,
+      "content": "Sometimes I doubt lots of things, but I don't even know what I doubt actually",
+      "tags": [
+        "mind"
+      ]
+    },
+    {
+      "id": 1727332867710,
+      "content": "Today was mid, hopefully it will get better",
+      "tags": [
+        "life"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith"
+    }
+  ]
+}
